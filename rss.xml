@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Robert ÆOLUS Myers]]></title>
         <description><![CDATA[Robert ÆOLUS Myers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robert-olus-myers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 05:07:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 05:08:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robert-olus-myers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Robert ÆOLUS Myers]]></title>
+            <description><![CDATA[<article><h1>Robert ÆOLUS Myers</h1><p>soundcloud</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9182ff25ae10559a0084fa76b1fe164ab3303399.jpg"></article>]]></description>
+            <link>https://m.soundcloud.com/robert-aeolus-myers/</link>
+            <guid isPermaLink="false">789e3563-970c-488d-933c-a0799547bcab</guid>
+            <pubDate>Sun, 21 Feb 2016 05:08:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>Robert ÆOLUS Myers is a composer/arranger, multi-instrumentalist, and producer currently residing in Portland, Maine. He is a mental health provider--a psychotherapist in private practice. Mr. Myers, as a long term resident of Honolulu, Hawaii, was a cornerstone member of an avant-garde performance arts scene that has thrived in Hawaii.</p><img src="https://robertaeolusmyers.files.wordpress.com/2012/01/head_shot_framed.jpg?w=229&h=370"></article>]]></description>
+            <description><![CDATA[<article><h1>Home</h1><p>Robert ÆOLUS Myers is a composer/arranger, multi-instrumentalist, and producer currently residing in Portland, Maine. He is a mental health provider--a psychotherapist in private practice. Mr. Myers, as a long term resident of Honolulu, Hawaii, was a cornerstone member of an avant-garde performance arts scene that has thrived in Hawaii.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b12e1629b7398198c7d54593059107b9233baad9.jpg"></article>]]></description>
             <link>https://robertaeolusmyers.wordpress.com/home/</link>
             <guid isPermaLink="false">7f2610e6-b19b-4e71-bfe7-dc2d0135a3b8</guid>
             <pubDate>Sun, 21 Feb 2016 05:06:50 GMT</pubDate>
