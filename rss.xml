@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Robert ÆOLUS Myers]]></title>
+        <description><![CDATA[Robert ÆOLUS Myers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 05:07:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Robert ÆOLUS Myers is a composer/arranger, multi-instrumentalist, and producer currently residing in Portland, Maine. He is a mental health provider--a psychotherapist in private practice. Mr. Myers, as a long term resident of Honolulu, Hawaii, was a cornerstone member of an avant-garde performance arts scene that has thrived in Hawaii.</p><img src="https://robertaeolusmyers.files.wordpress.com/2012/01/head_shot_framed.jpg?w=229&h=370"></article>]]></description>
+            <link>https://robertaeolusmyers.wordpress.com/home/</link>
+            <guid isPermaLink="false">7f2610e6-b19b-4e71-bfe7-dc2d0135a3b8</guid>
+            <pubDate>Sun, 21 Feb 2016 05:06:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
