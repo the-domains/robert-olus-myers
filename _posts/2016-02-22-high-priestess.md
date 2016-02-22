@@ -17,8 +17,8 @@ keywords:
   - incarnating
   - soundtrack
 description: 'Life is about change--we enter life through the portal of change and throughout our days we change and change again. The HIGH PRIESTESS is offered as a soundtrack for these passages. The HIGH PRIESTESS is a collection of 12 compositions for Breath, Birth, and Rebirth. This project assembled as a soundtrack for negotiating conscious birth...'
-datePublished: '2016-02-22T01:42:33.207Z'
-dateModified: '2016-02-22T01:41:46.198Z'
+datePublished: '2016-02-22T01:53:29.190Z'
+dateModified: '2016-02-22T01:53:28.659Z'
 author:
   - name: Robert Myers
     url: 'https://robertaeolusmyers.wordpress.com/author/robertmyerslcpc/'
@@ -38,23 +38,5 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Life is about change--we enter life through the portal of change and throughout
-
-our days we change and
-
-change again. The HIGH PRIESTESS is offered as a
-
-soundtrack for these passages. The HIGH PRIESTESS
-
-is a collection of 12
-
-compositions for Breath, Birth,
-
-and Rebirth. This project assembled as a
-
-soundtrack
-
-for
-
-negotiating conscious birth...
+Life is about change--we enter life through the portal of change and throughout our days we change and change again. The HIGH PRIESTESS is offered as a soundtrack for these passages. The HIGH PRIESTESS is a collection of 12 compositions for Breath, Birth, and Rebirth. This project assembled as a soundtrack for negotiating conscious birth...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3d01c5f-107d-456e-afbd-78e49998d729.jpg)
