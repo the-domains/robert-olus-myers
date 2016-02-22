@@ -1,18 +1,31 @@
-analytics: {}
+name: Robert ÆOLUS Myers
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.71509
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#C8B0B0'
-    - '#000000'
-    - '#786060'
-    - '#000000'
-    - '#000000'
-  brandStrength: 0.529279
-  lightness: 0.188063
+    - '#e1e4eb'
+    - '#1d1b28'
+    - '#41434f'
+    - '#5c5c68'
+    - '#809375'
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 0.6875
   rhythmicContrast: 0.252252
-  saturation: 0.009473
-cta: {}
-layout_spectrum: 0
-name: Robert ÆOLUS Myers
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.71509
+purpose:
+  - name: null
+    item: null
+    url: null
