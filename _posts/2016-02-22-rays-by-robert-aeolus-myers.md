@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Rays, the title cut of the album of the same name. Nelson Hui on solo keys, Kit Ebersbach on rhythm processing, and yours truly on flute and synthesizer beds.'
-datePublished: '2016-02-22T19:34:49.494Z'
-dateModified: '2016-02-22T19:34:33.567Z'
+datePublished: '2016-02-22T19:35:48.281Z'
+dateModified: '2016-02-22T19:35:45.433Z'
 author:
   - name: Robert ÆOLUS Myers
     url: 'http://soundcloud.com/robert-aeolus-myers'
