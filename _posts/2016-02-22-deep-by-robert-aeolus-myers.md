@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Deep - Composed for a documentary about the great humpback whales which spend their summers in the Hawaiian island chain.
-datePublished: '2016-02-22T17:53:13.750Z'
-dateModified: '2016-02-22T17:51:17.965Z'
+datePublished: '2016-02-22T17:55:39.051Z'
+dateModified: '2016-02-22T17:53:16.681Z'
 author:
   - name: Robert ÆOLUS Myers
     url: 'http://soundcloud.com/robert-aeolus-myers'
@@ -52,14 +52,14 @@ app_links:
     namespace: google
     type: ios
 title: Deep by Robert ÆOLUS Myers
+sourcePath: _posts/2016-02-22-deep-by-robert-aeolus-myers.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-02-22-deep-by-robert-aeolus-myers.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
