@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Deep - Composed for a documentary about the great humpback whales which spend their summers in the Hawaiian island chain.
-datePublished: '2016-02-22T17:55:39.051Z'
-dateModified: '2016-02-22T17:53:16.681Z'
+datePublished: '2016-02-22T17:59:24.251Z'
+dateModified: '2016-02-22T17:58:15.714Z'
 author:
   - name: Robert ÆOLUS Myers
     url: 'http://soundcloud.com/robert-aeolus-myers'
