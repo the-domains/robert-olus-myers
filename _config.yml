@@ -1,19 +1,5 @@
-name: Robert ÆOLUS Myers
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-74172439-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#06b6f2'
@@ -23,9 +9,12 @@ color:
     - '#47f6f2'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.6875
   rhythmicContrast: 0.5
+  saturation: 0.6875
+cta: {}
+layout_spectrum: 1
+name: Robert ÆOLUS Myers
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 1
