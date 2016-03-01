@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://soundcloud.com/robert-aeolus-myers/summer-fashion'
 inLanguage: null
 starred: false
 keywords: []
-description: Lounge groove parading a favorite melody.
-datePublished: '2016-03-01T04:04:40.090Z'
-dateModified: '2016-03-01T04:04:23.328Z'
+description: Mystery of Music Park - Lounge Remix.
+datePublished: '2016-03-01T04:05:36.077Z'
+dateModified: '2016-03-01T04:05:19.550Z'
 author:
   - name: Robert ÆOLUS Myers
     url: 'http://soundcloud.com/robert-aeolus-myers'
