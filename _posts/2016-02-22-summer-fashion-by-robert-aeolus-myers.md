@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Lounge groove parading a favorite melody.
-datePublished: '2016-02-22T21:41:44.004Z'
-dateModified: '2016-02-22T21:40:51.653Z'
+datePublished: '2016-03-01T04:04:40.090Z'
+dateModified: '2016-03-01T04:04:23.328Z'
 author:
   - name: Robert ÆOLUS Myers
     url: 'http://soundcloud.com/robert-aeolus-myers'
@@ -52,14 +52,14 @@ app_links:
     namespace: google
     type: ios
 title: Summer Fashion by Robert ÆOLUS Myers
+sourcePath: _posts/2016-02-22-summer-fashion-by-robert-aeolus-myers.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-02-22-summer-fashion-by-robert-aeolus-myers.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
