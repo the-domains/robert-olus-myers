@@ -4,11 +4,13 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://soundcloud.com/robert-aeolus-myers/rays-1'
 inLanguage: null
-starred: false
 keywords: []
-description: 'Rays, the title cut of the album of the same name. Nelson Hui on solo keys, Kit Ebersbach on rhythm processing, and yours truly on flute and synthesizer beds.'
-datePublished: '2016-02-22T19:35:48.281Z'
-dateModified: '2016-02-22T19:35:45.433Z'
+description: >-
+  Rays, the title cut of the album of the same name. Nelson Hui on solo keys,
+  Kit Ebersbach on rhythm processing, and yours truly on flute and synthesizer
+  beds.
+datePublished: '2016-07-10T18:59:36.331Z'
+dateModified: '2016-07-10T05:18:48.872Z'
 author:
   - name: Robert ÆOLUS Myers
     url: 'http://soundcloud.com/robert-aeolus-myers'
@@ -53,13 +55,13 @@ app_links:
     type: ios
 title: Rays by Robert ÆOLUS Myers
 sourcePath: _posts/2016-02-22-rays-by-robert-aeolus-myers.md
-published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: true
 _type: AudioObject
 _context: 'http://schema.org'
 
