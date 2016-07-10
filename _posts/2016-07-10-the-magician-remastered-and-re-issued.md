@@ -10,10 +10,12 @@ description: >-
   The 1989 release of THE MAGICIAN has been remastered and re-released. It is
   soon available as a digital download on CD Baby, iTunes, Amazon, and other
   download sites.
-datePublished: '2016-07-10T03:04:55.642Z'
-dateModified: '2016-07-10T03:04:36.063Z'
+datePublished: '2016-07-10T03:36:31.852Z'
+dateModified: '2016-07-10T03:32:26.311Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-10-the-magician-remastered-and-re-issued.md
 authors: []
 publisher: null
