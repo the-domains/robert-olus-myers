@@ -1,6 +1,6 @@
 name: Robert ÆOLUS Myers
 favicon: null
-layout_spectrum: 0.96678
+layout_spectrum: 0.87658
 typography_spectrum: 1
 title: Robert ÆOLUS Myers
 cta:
@@ -25,7 +25,7 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.6875
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose:
   - name: null
     item: null
