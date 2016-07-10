@@ -4,11 +4,10 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://soundcloud.com/robert-aeolus-myers/summer-fashion'
 inLanguage: null
-starred: false
 keywords: []
 description: Mystery of Music Park - Lounge Remix.
-datePublished: '2016-03-01T04:07:14.330Z'
-dateModified: '2016-03-01T04:06:09.436Z'
+datePublished: '2016-07-10T18:59:08.976Z'
+dateModified: '2016-07-10T05:18:43.427Z'
 author:
   - name: Robert ÆOLUS Myers
     url: 'http://soundcloud.com/robert-aeolus-myers'
@@ -53,13 +52,13 @@ app_links:
     type: ios
 title: Summer Fashion by Robert ÆOLUS Myers
 sourcePath: _posts/2016-02-22-summer-fashion-by-robert-aeolus-myers.md
-published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: false
 _type: AudioObject
 _context: 'http://schema.org'
 
