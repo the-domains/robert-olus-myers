@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-24T22:03:41.136Z'
+datePublished: '2016-08-24T23:50:29.477Z'
 sourcePath: _posts/2016-08-24-robertaeolusmyersgmailcom-phonetext-207-409-6226.md
 author: []
 via: {}
-dateModified: '2016-08-24T22:03:39.841Z'
+dateModified: '2016-08-24T23:50:29.178Z'
 title: Contact
 publisher: {}
 description: robertaeolusmyers@gmail.com
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: contact/index.html
+_type: Blurb
 
 ---
 # Contact
