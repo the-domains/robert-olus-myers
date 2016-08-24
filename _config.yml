@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Contact
-    id: 2353bab1-09a5-499e-81b7-023eb6d51c8b
-    type: content
   - name: THE MAGICIAN
     id: 8ff0325d-b10a-4cd6-ba6b-4b54d9bdf340
     type: content
