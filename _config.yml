@@ -28,6 +28,9 @@ navigation:
   - name: wikipedia
     url: 'https://en.wikipedia.org/wiki/Robert_%C3%86OLUS_Myers'
     type: external
+  - name: Contact
+    id: 5f448283-5a85-4c18-8c50-240deb9e4815
+    type: content
 favicon: null
 title: Robert ÆOLUS Myers
 description: 'composer/arranger, multi-instrumentalist, recording artist, and producer'
