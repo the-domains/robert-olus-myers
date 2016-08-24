@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Collected Works
-    id: 789e3563-970c-488d-933c-a0799547bcab
-    type: content
   - name: About
     id: c02a5e58-3ce8-47ec-b08e-5b9c55a72a83
     type: content
