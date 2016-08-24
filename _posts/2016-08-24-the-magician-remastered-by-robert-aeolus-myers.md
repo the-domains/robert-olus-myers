@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-24T23:40:35.346Z'
+datePublished: '2016-08-24T23:42:45.821Z'
+sourcePath: _posts/2016-08-24-the-magician-remastered-by-robert-aeolus-myers.md
 isBasedOnUrl: 'https://soundcloud.com/robert-aeolus-myers/sets/the-magician-remastered'
 keywords: []
 related: []
@@ -8,7 +9,7 @@ author:
     url: 'http://soundcloud.com/robert-aeolus-myers'
     avatar: {}
 via: {}
-dateModified: '2016-08-24T23:40:33.601Z'
+dateModified: '2016-08-24T23:42:41.499Z'
 title: The Magician Remastered by Robert ÆOLUS Myers
 app_links:
   - type: ios
@@ -56,9 +57,8 @@ description: >-
   THE MAGICIAN has been remastered and is being re-released as a digital
   download. Soon to be available on CD Baby, iTunes, and Amazon. Until the album
   is ready for download via digital distributors, I am making it available for
-  FREE DOWNLOAD from my SoundCloud site. 
+  FREE DOWNLOAD from my SoundCloud site.
 starred: false
-sourcePath: _posts/2016-08-24-the-magician-remastered-by-robert-aeolus-myers.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -68,4 +68,6 @@ _type: AudioObject
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fplaylists%252F236838352%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Frobert-aeolus-myers%2Fsets%2Fthe-magician-remastered&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000170492441-4sjhew-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-THE MAGICIAN has been remastered and is being re-released as a digital download. Soon to be available on CD Baby, iTunes, and Amazon. Until the album is ready for download via digital distributors, I am making it available for FREE DOWNLOAD from my SoundCloud site.
+THE MAGICIAN has been remastered and is being re-released as a digital download. Soon to be available on CD Baby, iTunes, and Amazon. Until the album is ready for download via digital distributors, I am making it available for _[FREE DOWNLOAD][0]_ from my SoundCloud site.
+
+[0]: http://THE MAGICIAN has been remastered and is being re-released as a digital download. Soon to be available on CD Baby, iTunes, and Amazon. Until the album is ready for download via digital distributors, I am making it available for FREE DOWNLOAD from my SoundCloud site./ "soundcloud link"
