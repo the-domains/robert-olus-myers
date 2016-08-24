@@ -40,6 +40,9 @@ navigation:
   - name: HIGH PRIESTESS
     id: 250b1bbe-4f04-451c-b0fb-da36d30f4517
     type: content
+  - name: wikipedia
+    url: 'https://en.wikipedia.org/wiki/Robert_%C3%86OLUS_Myers'
+    type: external
 favicon: null
 title: Robert ÆOLUS Myers
 description: 'composer/arranger, multi-instrumentalist, recording artist, and producer'
