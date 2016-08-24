@@ -1,4 +1,3 @@
-layout_spectrum: 0.018189494032412767
 typography_spectrum: 0.051502140471711755
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.018189494032412767
 analytics:
   google: UA-74172439-1
   facebook: null
@@ -26,5 +26,5 @@ cta:
   version: null
 favicon: null
 title: Robert ÆOLUS Myers
-description: 'composer/arranger, multi-instrumentalist, and producer'
+description: 'composer/arranger, multi-instrumentalist, recording artist, and producer'
 purpose: []
