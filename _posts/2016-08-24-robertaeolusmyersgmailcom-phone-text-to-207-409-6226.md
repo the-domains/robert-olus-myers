@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-24T21:30:51.420Z'
+datePublished: '2016-08-24T21:41:15.473Z'
 sourcePath: _posts/2016-08-24-robertaeolusmyersgmailcom-phone-text-to-207-409-6226.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T21:30:50.869Z'
+dateModified: '2016-08-24T21:41:14.555Z'
 title: Contact
 publisher: {}
 description: robertaeolusmyers@gmail.com phone / text to (207) 409-6226
-hasPage: true
 starred: false
 url: contact/index.html
 _type: Blurb
