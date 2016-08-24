@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-24T20:55:13.244Z'
+datePublished: '2016-08-24T21:19:40.512Z'
 sourcePath: _posts/2016-08-24-robertaeolusmyersgmailcom-phone-text-to-207-409-6226.md
 author: []
 via: {}
-dateModified: '2016-08-24T20:55:12.363Z'
-title: 'Contact '
+dateModified: '2016-08-24T21:19:39.308Z'
+title: Contact
 publisher: {}
 description: robertaeolusmyers@gmail.com phone / text to (207) 409-6226
 starred: false
@@ -16,10 +16,10 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a94f1d6a-d5b7-4d96-824f-cc71f49ac7d4.jpg)
 
-## Contact 
+## Contact
 
 [robertaeolusmyers@gmail.com][0] phone / text to (207) 409-6226
 
-Return reply within twenty-four hours. 
+Return reply within twenty-four hours.
 
 [0]: http://robertmyerslcpc@gmail.com/ "email"
