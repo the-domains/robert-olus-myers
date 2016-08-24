@@ -31,6 +31,9 @@ navigation:
   - name: Free Download
     id: 8ff0325d-b10a-4cd6-ba6b-4b54d9bdf340
     type: content
+  - name: Collected Works
+    id: 789e3563-970c-488d-933c-a0799547bcab
+    type: content
 favicon: null
 title: Robert ÆOLUS Myers
 description: 'composer/arranger, multi-instrumentalist, recording artist, and producer'
