@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T20:53:05.060Z'
+datePublished: '2016-08-25T20:53:10.802Z'
 sourcePath: _posts/2016-08-24-the-magician-remastered-by-robert-aeolus-myers.md
 inFeed: true
 isBasedOnUrl: 'https://soundcloud.com/robert-aeolus-myers/sets/the-magician-remastered'
@@ -10,7 +10,7 @@ author:
     url: 'http://soundcloud.com/robert-aeolus-myers'
     avatar: {}
 via: {}
-dateModified: '2016-08-25T20:52:55.376Z'
+dateModified: '2016-08-25T20:53:10.153Z'
 title: The Magician Remastered by Robert ÆOLUS Myers
 app_links:
   - type: ios
