@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-25T00:32:41.407Z'
+datePublished: '2016-08-25T00:32:47.046Z'
 sourcePath: _posts/2016-08-24-robertaeolusmyersgmailcom-phonetext-207-409-6226.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-25T00:32:35.045Z'
+dateModified: '2016-08-25T00:32:46.225Z'
 title: Contact
 publisher: {}
 description: robertaeolusmyers@gmail.com
