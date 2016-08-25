@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-08-25T00:00:01.726Z'
+datePublished: '2016-08-25T20:53:05.060Z'
 sourcePath: _posts/2016-08-24-the-magician-remastered-by-robert-aeolus-myers.md
+inFeed: true
 isBasedOnUrl: 'https://soundcloud.com/robert-aeolus-myers/sets/the-magician-remastered'
 keywords: []
 related: []
@@ -9,7 +10,7 @@ author:
     url: 'http://soundcloud.com/robert-aeolus-myers'
     avatar: {}
 via: {}
-dateModified: '2016-08-25T00:00:01.128Z'
+dateModified: '2016-08-25T20:52:55.376Z'
 title: The Magician Remastered by Robert ÆOLUS Myers
 app_links:
   - type: ios
@@ -59,9 +60,6 @@ description: >-
   is ready for download via digital distributors, I am making it available for
   FREE DOWNLOAD from my SoundCloud site.
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: AudioObject
 
@@ -70,4 +68,4 @@ _type: AudioObject
 
 THE MAGICIAN has been remastered and is being re-released as a digital download. Soon to be available on CD Baby, iTunes, and Amazon. Until the album is ready for download via digital distributors, I am making it available for _[FREE DOWNLOAD][0]_ from my SoundCloud site.
 
-[0]: http://THE MAGICIAN has been remastered and is being re-released as a digital download. Soon to be available on CD Baby, iTunes, and Amazon. Until the album is ready for download via digital distributors, I am making it available for FREE DOWNLOAD from my SoundCloud site./ "soundcloud link"
+[0]: https://soundcloud.com/robert-aeolus-myers/sets/the-magician-remastered "Free Download"
