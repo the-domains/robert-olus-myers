@@ -28,6 +28,9 @@ navigation:
   - name: wikipedia
     url: 'https://en.wikipedia.org/wiki/Robert_%C3%86OLUS_Myers'
     type: external
+  - name: SoundCloud
+    url: 'https://soundcloud.com/robert-aeolus-myers/'
+    type: external
 favicon: null
 title: Robert ÆOLUS Myers
 description: 'composer/arranger, multi-instrumentalist, recording artist, and producer'
