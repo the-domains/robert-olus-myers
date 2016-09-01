@@ -31,6 +31,9 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/Robert-%C3%86OLUS-Myers-45463886574/'
     type: external
+  - name: WordPress
+    url: 'https://robertaeolusmyers.wordpress.com/home/'
+    type: external
 favicon: null
 title: Robert ÆOLUS Myers
 description: 'composer/arranger, multi-instrumentalist, recording artist, and producer'
