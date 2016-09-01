@@ -1,4 +1,3 @@
-layout_spectrum: 0.2903926414437592
 typography_spectrum: 0.8167040329426527
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.2903926414437592
 analytics:
   google: UA-74172439-1
   facebook: null
@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: wikipedia
-    url: 'https://en.wikipedia.org/wiki/Robert_%C3%86OLUS_Myers'
-    type: external
   - name: SoundCloud
     url: 'https://soundcloud.com/robert-aeolus-myers/'
     type: external
